@@ -155,6 +155,8 @@ skills:
         level: 85%
       - name: Django
         level: 90%
+      - name: Flask
+        level: 75%
       - name: Celery
         level: 75%
          
