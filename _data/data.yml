@@ -157,6 +157,8 @@ skills:
         level: 90%
       - name: Flask
         level: 75%
+      - name: Unittest
+        level: 60%
       - name: Celery
         level: 75%
          
